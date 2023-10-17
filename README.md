@@ -1,12 +1,12 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [HaloKode](HaloKode.com)
+- 🔭 I’m currently working on [hi-Kode](hi-Kode.com)
 
 - 🌱 I’m currently learning **Fivem Dev**
 
 - 👯 I’m looking to collaborate on [Dreamlandrp](Dreamlandrp.tech)
 
-- 👨‍💻 All of my projects are available at [HaloKode.com](HaloKode.com)
+- 👨‍💻 All of my projects are available at [hi-kode.com](hi-kode.com)
 
 - 💬 Ask me about **lua,laravel,php, etc**
 
